@@ -1,0 +1,15 @@
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\bin\Debug\ST10033808-PROG6212-POE-Part1-TaskTrack.exe.config
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\bin\Debug\ST10033808-PROG6212-POE-Part1-TaskTrack.exe
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\bin\Debug\ST10033808-PROG6212-POE-Part1-TaskTrack.pdb
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\obj\Debug\ST10033808-PROG6212-POE-Part1-TaskTrack.csproj.AssemblyReference.cache
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\obj\Debug\MainWindow.g.cs
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\obj\Debug\App.g.cs
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\obj\Debug\ST10033808-PROG6212-POE-Part1-TaskTrack_MarkupCompile.cache
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\obj\Debug\ST10033808-PROG6212-POE-Part1-TaskTrack_MarkupCompile.lref
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\obj\Debug\MainWindow.baml
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\obj\Debug\ST10033808-PROG6212-POE-Part1-TaskTrack.g.resources
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\obj\Debug\ST10033808_PROG6212_POE_Part1_TaskTrack.Properties.Resources.resources
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\obj\Debug\ST10033808-PROG6212-POE-Part1-TaskTrack.csproj.GenerateResource.cache
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\obj\Debug\ST10033808-PROG6212-POE-Part1-TaskTrack.csproj.CoreCompileInputs.cache
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\obj\Debug\ST10033808-PROG6212-POE-Part1-TaskTrack.exe
+C:\Users\leigh\OneDrive\VS CODE\ST10033808-PROG6212-POE-Part1-TaskTrack\ST10033808-PROG6212-POE-Part1-TaskTrack\obj\Debug\ST10033808-PROG6212-POE-Part1-TaskTrack.pdb

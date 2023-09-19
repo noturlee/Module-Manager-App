@@ -1,0 +1,9 @@
+﻿<Application x:Class="ST10033808_PROG6212_POE_Part1_TaskTrack.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ST10033808_PROG6212_POE_Part1_TaskTrack"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
