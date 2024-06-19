@@ -1,4 +1,6 @@
-# TaskTracker (Time Management App)
+![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/noturlee/Module-Manager-App/assets/100778149/1903675f-10da-486e-9371-259645ec1f22)
+
+# TaskTracker (Time Management Windows App)
 
 ## Table of Contents
 - [Description](#description)
@@ -55,6 +57,9 @@ This is a standalone desktop time management application built using C# and Wind
 ### 6. Data Persistence
 - User data is stored in memory while the software is running.
 - Data is not persisted between runs; it remains in memory only during the current session.
+
+<img src ="https://i.pinimg.com/originals/ac/8f/61/ac8f610d390a504026b5e7bd2b67818f.gif"/>
+
 
 ## Non-Functional Requirements
 
